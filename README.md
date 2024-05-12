@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-// Coming at a later time.
+![github-header-image](https://github.com/Michael-MSL/Michael-MSL/assets/169114865/47d58181-1606-4f5e-a540-fddb6da388e6)
